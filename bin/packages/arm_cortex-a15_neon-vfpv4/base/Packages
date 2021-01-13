@@ -223,10 +223,10 @@ License: BSD-3-Clause
 Section: net
 CPE-ID: cpe:/a:w1.fi:hostapd
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 10324
+Installed-Size: 10351
 Filename: hostapd-common_2020-06-08-5a8b3662-20_arm_cortex-a15_neon-vfpv4.ipk
-Size: 11120
-SHA256sum: 6756246c5153c62488ba724291e1b4aca2da11ea86a547b5e0322d61b9662829
+Size: 11150
+SHA256sum: 8e20a1a6c64d1c4383ce1b6aa74b33a1fd66d23aecd0f2af2bb81fc923f29001
 Description:  hostapd/wpa_supplicant common support files
 
 Package: hostapd-utils
@@ -236,10 +236,10 @@ License: BSD-3-Clause
 Section: net
 CPE-ID: cpe:/a:w1.fi:hostapd
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 16949
+Installed-Size: 16948
 Filename: hostapd-utils_2020-06-08-5a8b3662-20_arm_cortex-a15_neon-vfpv4.ipk
-Size: 17760
-SHA256sum: ab72636427f7b3fbc7e655cdd944f388ff693c04952e44095caeb620805c5b08
+Size: 17758
+SHA256sum: a4b9b7403b1eceec60773e6eea3ea525a171d8af696b3c5c44f053aa066f20c4
 Description:  This package contains a command line utility to control the
  IEEE 802.1x/WPA/EAP/RADIUS Authenticator.
 
@@ -345,8 +345,8 @@ CPE-ID: cpe:/a:elfutils_project:elfutils
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 38163
 Filename: libelf1_0.180-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 39090
-SHA256sum: 612f537c274f5fda24899591651d1b990bdbd9c2e0cfed93669b1a55455057a2
+Size: 39095
+SHA256sum: 8388b26cd98e11caccd8e5f0f2fae93288f2f51e3949d6dbd044247a31e820c9
 Description:  ELF manipulation libraries (libelf)
 
 Package: libext2fs2
@@ -516,10 +516,10 @@ License: OpenSSL
 Section: libs
 CPE-ID: cpe:/a:openssl:openssl
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 1098420
+Installed-Size: 1098421
 Filename: libopenssl1.1_1.1.1i-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 1088626
-SHA256sum: 0e63de57a86056eaef0d0b17451727fd8fa640207683d7030997ed083a56a26f
+Size: 1088652
+SHA256sum: da4aa3008e7509f3a8ddbbdcbaeec2758b8ac4027b131d5f63c38b883c5c6a2d
 Description:  The OpenSSL Project is a collaborative effort to develop a robust,
  commercial-grade, full-featured, and Open Source toolkit implementing the
  Transport Layer Security (TLS) protocol as well as a full-strength
@@ -1076,10 +1076,10 @@ Depends: libc
 License: GPL-2.0
 Section: net
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 26138
+Installed-Size: 26143
 Filename: wireguard-tools_1.0.20200827-2_arm_cortex-a15_neon-vfpv4.ipk
-Size: 27244
-SHA256sum: e97bca5dbc570383c522366696e3f9f6f79932005eeaa8dec16c78e856312dfe
+Size: 27242
+SHA256sum: 1ee3b4b6ca5cb858c981125b675fcb73d0d85725cfc73e44bb1479b095f6f3da
 Description:  WireGuard is a novel VPN that runs inside the Linux Kernel and utilizes
  state-of-the-art cryptography. It aims to be faster, simpler, leaner, and
  more useful than IPSec, while avoiding the massive headache. It intends to
@@ -1110,10 +1110,10 @@ License: BSD-3-Clause
 Section: net
 CPE-ID: cpe:/a:w1.fi:hostapd
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 347352
+Installed-Size: 347350
 Filename: wpad-basic-wolfssl_2020-06-08-5a8b3662-20_arm_cortex-a15_neon-vfpv4.ipk
-Size: 347715
-SHA256sum: 98016efb58b5240ce6c5b6c41fc8572394176c2168bc27b39853b7ebf22b66aa
+Size: 347639
+SHA256sum: 34b4b18163c110b0efc2cecc6ecd75d5448f4b929fae4468e0f412a31815b88b
 Description:  This package contains a basic IEEE 802.1x/WPA Authenticator and Supplicant with WPA-PSK, SAE (WPA3-Personal), 802.11r and 802.11w support.
 
 Package: wpad-openssl
@@ -1125,10 +1125,10 @@ License: BSD-3-Clause
 Section: net
 CPE-ID: cpe:/a:w1.fi:hostapd
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 567240
+Installed-Size: 567239
 Filename: wpad-openssl_2020-06-08-5a8b3662-20_arm_cortex-a15_neon-vfpv4.ipk
-Size: 566448
-SHA256sum: 843ae1544b109ea63dd67bf15d355414738f52f20aacf1b2e3a46e0fd7d47658
+Size: 566479
+SHA256sum: 3b513639ea438586b98a705d63bf7a43a3959bc30352b634a1aa29a641b546cc
 Description:  This package contains a full featured IEEE 802.1x/WPA/EAP/RADIUS
  Authenticator and Supplicant
 
